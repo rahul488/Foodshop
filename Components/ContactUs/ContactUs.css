@@ -1,0 +1,26 @@
+.background {
+  background-color: darkslateblue;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}
+.contact-container {
+  height: 600px;
+  width: 600px;
+  position: absolute;
+}
+.contact-input {
+  width: 100%;
+  height: 40px;
+  outline: none;
+  border-radius: 10px;
+  border-color: 1px solid black;
+}
+.input-align {
+  margin-left: 550px;
+}
+.btn-content {
+  margin-left: 720px;
+}

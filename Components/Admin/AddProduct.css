@@ -1,0 +1,23 @@
+.content_product {
+  height: 350px;
+  width: 500px;
+  border: none;
+  margin-left: 240px;
+  margin-top: 50px;
+  box-shadow: 3px 3px 3px #888888;
+}
+.add-btn {
+  margin-left: 45%;
+}
+.input-register-box {
+  text-align: left;
+}
+.active-link {
+  color: white;
+}
+@media only screen and (max-width: 800px) {
+  .content_product {
+    margin-left: 0;
+    width: 350px;
+  }
+}

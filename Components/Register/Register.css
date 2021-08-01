@@ -1,0 +1,32 @@
+.input-register-box {
+  width: 100%;
+  border-radius: 10px;
+  outline: none;
+  height: 40px;
+  text-align: center;
+  border-color: black;
+}
+.input-register-box:hover {
+  border-color: red;
+}
+.inc {
+  position: absolute;
+  margin-left: 4px;
+  outline: none;
+}
+.dec {
+  position: absolute;
+  margin-left: 44px;
+  outline: none;
+}
+.register-btn {
+  width: 120px;
+}
+.register-btn:hover {
+  background-color: red;
+}
+.register-text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 3px;
+  margin-left: 550px;
+}

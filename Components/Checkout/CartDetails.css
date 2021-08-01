@@ -1,0 +1,15 @@
+.empty-card {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  border: none;
+  top: 100px;
+}
+.empty-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart-icon {
+  font-size: 40px;
+}

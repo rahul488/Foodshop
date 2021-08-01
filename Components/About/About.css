@@ -1,0 +1,50 @@
+.about {
+  background-image: url("https://wallup.net/wp-content/uploads/2019/09/06/477928-masterchef-reality-series-cooking-food-master-chef.jpg");
+  height: 900px;
+}
+.desc {
+  font-size: 20px;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.who_are_we {
+  color: tomato;
+}
+.happy_customer {
+  color: rgb(2, 39, 245);
+}
+.follow_us {
+  color: violet;
+}
+.facebook {
+  color: blue;
+  font-size: 40px;
+}
+.twitter {
+  color: blue;
+  font-size: 40px;
+}
+.instagram {
+  color: rgba(199, 76, 96, 0.603);
+  font-size: 40px;
+}
+.you-tube {
+  color: red;
+  font-size: 45px;
+}
+.follow-us {
+  margin-left: 570px;
+}
+@media screen and (max-width: 900px) {
+  .about {
+    background-image: none;
+    background-color: white;
+  }
+  .desc {
+    color: black;
+  }
+  .follow-us {
+    margin-left: 0;
+  }
+}

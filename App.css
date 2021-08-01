@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.loading{
+  margin-top: 120px;
+  color: red;
+  font-size: 40px;
+}
+.error{
+  color: red;
+ 
+}

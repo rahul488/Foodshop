@@ -1,0 +1,33 @@
+.sidebar {
+  background-color: cornsilk;
+  height: 100vh;
+  position: relative;
+}
+.sidebar-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.active {
+  color: black;
+}
+.sidebar-menu {
+  list-style: none;
+  padding: 20px;
+  font-weight: bold;
+}
+.items {
+  font-size: 20px;
+  color: blueviolet;
+}
+.time {
+  margin-left: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.bar {
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20px;
+}

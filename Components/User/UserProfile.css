@@ -1,0 +1,18 @@
+.profile-table {
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.update-btn {
+  margin-left: 500px;
+}
+.update-btn:hover {
+  background-color: black;
+}
+@media only screen and (max-width: 800px) {
+  .profile-table {
+    margin-left: 0;
+  }
+  .update-btn {
+    margin-left: 35%;
+  }
+}

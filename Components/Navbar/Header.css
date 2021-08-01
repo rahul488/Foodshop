@@ -1,0 +1,32 @@
+.header_text {
+  color: white;
+}
+.menu {
+  margin-left: 30%;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.icon {
+  color: white;
+  font-size: 40px;
+}
+.notifications {
+  color: red;
+  position: absolute;
+  margin-left: 45px;
+}
+.total_cart {
+  position: absolute;
+  color: white;
+  margin-left: 49px;
+  top: 10px;
+  z-index: 3;
+}
+@media screen and (max-width: 777px) {
+  .total_cart {
+    margin-top: 262px;
+  }
+  .navbar {
+    width: 100%;
+  }
+}
